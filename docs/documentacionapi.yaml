@@ -4,8 +4,8 @@ info:
   description: API para gestión de carrito de compras y órdenes en PulgaShop
   version: 1.0.0
   contact:
-    name: Chumuelo97
-    url: https://github.com/Chumuelo97
+    name: Javier-Rivera2311
+    url: https://github.com/Javier-Rivera2311
 servers:
   - url: http://localhost:3000
     description: Servidor de desarrollo
